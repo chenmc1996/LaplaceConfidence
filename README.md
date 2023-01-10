@@ -1,12 +1,12 @@
 # LaplaceConfidence
 This is the code for our submisssion "LaplaceConfidence: a Graph-based Approach for Learning with Noisy Labels"
 
-<center>Motivation</center>
+### Motivation
 
 ![motivation](motivation.png "motivation")
 
 
-<center>Method</center>
+### Method
 
 <img src="method.png" alt="drawing" width="400"/>
 
