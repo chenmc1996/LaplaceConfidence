@@ -41,7 +41,7 @@ parser.add_argument('--knn', default=50, type=int,
 parser.add_argument('--pca', default=64, type=int, help='PCA dimension')
 
 parser.add_argument('--r', default=0.5, type=float, help='noise ratio')
-parser.add_argument('--noise_mode',  default='sym')
+parser.add_argument('--noise_mode',  default='sym', help='choose symmetrical or asymmetrical noise')
 
 
 args = parser.parse_args()
