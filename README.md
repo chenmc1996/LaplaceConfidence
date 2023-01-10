@@ -8,7 +8,7 @@ This is the code for our submisssion "LaplaceConfidence: a Graph-based Approach 
 
 <center>Method</center>
 
-<img src="method.png" alt="drawing" width="200"/>
+<img src="method.png" alt="drawing" width="400"/>
 
 
 # Usage
